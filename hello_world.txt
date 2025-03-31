@@ -1,0 +1,3 @@
+just adding some random text to 
+help me understand how git and git versioning works 
+using visual studio code
